@@ -1,2 +1,1 @@
-# Map
-PPLSWG Map
+#PPLSWG map
